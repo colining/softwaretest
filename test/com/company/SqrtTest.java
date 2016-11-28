@@ -11,7 +11,7 @@ public class SqrtTest {
     @Test
     public void sqrt() throws Exception {
         Sqrt sqrt= new Sqrt();
-        assertTrue(sqrt.sqrt(-1)==-1);
-        assertTrue(sqrt.sqrt(4)==2.0);
+        assertTrue(sqrt.sqrt(-1)==-1);              //测试用例一
+        assertTrue(sqrt.sqrt(4)==2.0);              //测试用例二
     }
 }
