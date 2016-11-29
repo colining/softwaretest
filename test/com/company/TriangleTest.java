@@ -14,5 +14,4 @@ public class TriangleTest {
                 assertTrue(triangle.triangle(5,5,5)=="µÈ±ßÈý½ÇÐÎ");
 
     }
-
 }
